@@ -20,5 +20,5 @@ Help companies to achieve their goals in a shorter time and spending only the ne
 - Contribute in open source projects
 
 ## 📫 How to reach me: 
-Email: jcstange@gmail.com
-LinkedIn: https://www.linkedin.com/in/joao-cesar-stange-0a159223/
+- Email: jcstange@gmail.com
+- LinkedIn: https://www.linkedin.com/in/joao-cesar-stange-0a159223/
