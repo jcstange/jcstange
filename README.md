@@ -1,16 +1,24 @@
-### Hi there 👋
-
 <!--
 **jcstange/jcstange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+## ☎️ Mobile and Web developer with 7+ years of experience.
 
-Here are some ideas to get you started:
+The more I learn about software, the more I see what makes companies spend millions in products that doesn't attract the public, or doesn't work, and spend 20 times more money to try to fix it.
 
-- 🔭 I’m currently working on [http://jcstange.github.io/F1react] 
-- 🌱 I’m currently learning flutter, android, ios, python, aws, react, react-native, redux.
-- 👯 I’m looking to collaborate on open sources software
-- 🤔 I’m looking for help with whatever I can
-- 💬 Ask me about how is life
-- 📫 How to reach me: jcstange@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: This is just a dummy temporary README.md, I'm going to improve it
+Software is expensive, and it should be well planned, well executed and well tested.
 
+Achieving good software requirements and choosing the right architecture for the product and executing it iteratively with requirement test are the goals of my career.
+
+Help companies to achieve their goals in a shorter time and spending only the necessary amount of resources is what matters to me.
+
+## 🌱 Platforms and Frameworks: 
+- Android
+- Flutter,
+- React, RN, Redux
+- Python
+
+## 🧠 Future goals
+- Contribute in open source projects
+
+## 📫 How to reach me: 
+Email: jcstange@gmail.com
+LinkedIn: https://www.linkedin.com/in/joao-cesar-stange-0a159223/
