@@ -12,7 +12,7 @@ Help companies to achieve their goals in a shorter time and spending only the ne
 
 ## 🌱 Platforms and Frameworks: 
 - Android
-- Flutter,
+- Flutter
 - React, RN, Redux
 - Python
 
