@@ -1,6 +1,6 @@
 <!--
 **jcstange/jcstange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-## ☎️ Mobile and Web developer with 7+ years of experience.
+## ☎️ Mobile and Web developer
 
 The more I learn about software, the more I see what makes companies spend millions in products that doesn't attract the public, or doesn't work, and spend 20 times more money to try to fix it.
 
@@ -13,7 +13,7 @@ Help companies to achieve their goals in a shorter time and spending only the ne
 ## 🌱 Platforms and Frameworks: 
 - Android
 - Flutter
-- React, RN, Redux
+- React, RN
 - Python
 
 ## 🧠 Future goals
