@@ -1,6 +1,6 @@
 <!--
 **jcstange/jcstange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-## ☎️ Mobile and Web developer
+## ☎️ Software Developer
 
 The more I learn about software, the more I see what makes companies spend millions in products that doesn't attract the public, or doesn't work, and spend 20 times more money to try to fix it.
 
